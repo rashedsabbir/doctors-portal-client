@@ -6,7 +6,7 @@ import ContactUs from './ContactUs';
 import Services from './Services';
 import Care from './Care';
 import Testimonials from './Testimonials';
-import Footer from './Footer';
+import Footer from '../Shared/Footer'
 
 const Home = () => {
     return (
